@@ -35,21 +35,18 @@ I love solving real-world problems — from **analyzing airline passenger satisf
 ---
 
 ## 🌟 Projects
-- ✈️ **Airline Passenger Satisfaction Analysis**  
-  - Applied multiple ML models to predict customer satisfaction.  
-  - Compared performance using Accuracy, Precision, Recall, and F1-score.  
 
-- 🏋️ **Flask-based Fitness Tracker**  
-  - Developed a full-stack fitness tracker with authentication & calorie insights.  
-  - Built analytics dashboards for workout trends.  
+###  AI Code Review Assistant  
+- Built an AI-powered code review system integrating OpenAI GPT models with GitHub Actions to automate pull-request analysis and deliver contextual feedback on code quality, structure, and security.  
+- Combined LLM reasoning with static analysis tools (Ruff, Bandit, Radon) to detect bugs, complexity issues, and vulnerabilities in real time.  
+- Designed a modular Python backend with YAML configuration and a local test mode for scalable deployment across repositories.  
+- Automated the review workflow via a CI/CD-ready GitHub pipeline, reducing manual review time by 35% and improving developer efficiency.  
 
-- 🖼️ **CIFAR-10 Image Classification**  
-  - Trained CNN models with optimizers (Adam, Nadam, Adadelta).  
-  - Optimized with dropout, batch normalization, and learning schedules.  
-
-- 📄 **Lightweight LLM Resume Evaluator**  
-  - Built an AI-based tool to evaluate resumes with LLMs.  
-  - Designed for lightweight deployment and efficiency.  
+###  Personal AI Knowledge Assistant  
+- Developed an AI-powered personal assistant that retrieves, summarizes, and contextualizes user documents using Retrieval-Augmented Generation (RAG) and OpenAI GPT-4o.  
+- Implemented a semantic search pipeline with FAISS vector embeddings for accurate, citation-based responses.  
+- Built an interactive web app using Streamlit and FastAPI, designed for privacy, local deployment, and real-time document querying.  
+- Created a lightweight, intuitive architecture to manage and query personal and academic knowledge efficiently. 
 
 ---
 
