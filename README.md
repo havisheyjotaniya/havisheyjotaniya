@@ -3,7 +3,20 @@
 ## 🚀 About Me
 I’m a graduate student pursuing my MS in **Computer Science at Stevens Institute of Technology** (Expected May 2026).
 
-I love solving real-world problems — from **analyzing airline passenger satisfaction** to **building fitness tracking apps** and **deep learning models for image classification**.
+I enjoy building intelligent, practical systems that merge **data, AI, and automation** — from scalable backend architectures to AI-driven applications that make life simpler.  
+
+💡 My core interests include:  
+- **Machine Learning & AI Systems** — LLMs, NLP, and deep learning applications.  
+- **Backend Development** — Python, Flask, FastAPI, and REST API design.  
+- **Data Engineering** — building ETL pipelines, automations, and analytics systems.  
+- **Cloud & DevOps** — AWS, CI/CD, and Docker-based scalable deployments.  
+
+🚀 I’ve recently worked on:  
+- **AI Code Review Assistant** → Automating GitHub pull-request reviews using GPT models and static analysis.  
+- **Personal AI Knowledge Assistant** → Building a private RAG-based knowledge retrieval system with GPT-4o and FAISS.  
+
+I’m always exploring how **AI + Engineering** can enhance productivity, creativity, and knowledge management.  
+If you’re working on something exciting in **AI, data systems, or intelligent tools**, I’d love to collaborate or chat!  
 
 ---
 
