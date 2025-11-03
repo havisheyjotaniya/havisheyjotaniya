@@ -1,8 +1,7 @@
 # 👋 Hello & Namaste! I'm Havishey Jotaniya!
 
 ## 🚀 About Me
-I’m a graduate student pursuing my MS in **Computer Science at Stevens Institute of Technology** (GPA: 3.60, expected May 2026).  
-I have 1 year of **Flutter/iOS development experience** and strong interests in **Machine Learning, Data Science, and AI applications**.  
+I’m a graduate student pursuing my MS in **Computer Science at Stevens Institute of Technology** (Expected May 2026).
 
 I love solving real-world problems — from **analyzing airline passenger satisfaction** to **building fitness tracking apps** and **deep learning models for image classification**.
 
