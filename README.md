@@ -20,11 +20,6 @@ If you’re working on something exciting in **AI, data systems, or intelligent 
 
 ---
 
-## 💼 Experience
-- **Flutter Developer Intern @ PlusGold, Bangalore**  
-  - Developed cross-platform mobile apps using Flutter (Dart).  
-  - Integrated Firebase backend (authentication, database, real-time sync).  
-  - Designed responsive UI/UX for multi-device use.  
 
 - **Academic Projects @ Stevens**  
   - **Airline Passenger Satisfaction Analysis**  
